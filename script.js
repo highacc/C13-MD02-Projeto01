@@ -9,7 +9,7 @@ elementBtn.addEventListener("click",  () => {
   if (elementBtn.value == "first") {
     elementName.innerText = "Tambaba - Paraíba";
     elementClass.innerText = "Tropical-Praia";
-    elementImg.src = "./imagens/00Tambaba.jpg";
+    elementImg.src = "./imagens/00ta.jpg";
     elementMap.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.896207059949!2d-34.80013118555395!3d-7.365530094685017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7acbc3f92686687%3A0xa944c1262c0f4025!2sPraia%20de%20Tambaba!5e0!3m2!1spt-BR!2sbr!4v1650323434210!5m2!1spt-BR!2sbr";
     
 
